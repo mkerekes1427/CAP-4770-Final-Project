@@ -5,3 +5,6 @@ a Docker that has many libraries like pandas, sklearn, numpy, etc., so pip insta
 was very convenient. The dataset was read in from the input section in the Kaggle notebook editor, and we had some saved predictions when we wanted to
 add somehting to the notebook based upon prediction values, without running the whole notebook. The Kaggle link for the notebook is here:
 https://www.kaggle.com/mattkerekes/final-project-flight-price-predictions/edit.
+
+
+The dataset that my partner and I worked with is https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
